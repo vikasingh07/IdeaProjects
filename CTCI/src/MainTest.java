@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class MainTest {
 public static void main(String[] args){
     String strinput="bcababccaaa";
@@ -48,8 +50,16 @@ public static void main(String[] args){
 //    a.myAtoi(S);
 
 //---------------------------------------------------------------
-    Intpalindrome input =new Intpalindrome();
-    input.palindrome(-121);
+//    Intpalindrome input =new Intpalindrome();
+//    input.palindrome(-121);
+//--------------------------------------------------------------
+//
+//    Flipbittowin s = new Flipbittowin();
+//    ArrayList<Integer> x =s.Findlongestones(1775);
+//    for(int i=0;i<x.size();i++){
+//        System.out.print(x.get(i));
+//    }
+//
 
 
 }
